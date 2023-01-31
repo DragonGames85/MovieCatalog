@@ -1,0 +1,71 @@
+* {font-family: Arial ; font-size: 15px;}
+
+.movie-name {
+  font-weight: 550;
+  font-size: 20px;
+}
+
+.movie-rate{
+  background-color:blue;
+  color:white;
+  font-weight: 550;
+  border-radius: 3px;
+}
+
+.nav .logo {
+  color:white;
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+
+.movie-rate {
+  width: max-content;
+}
+
+.lgn {
+  padding-left:500px;
+}
+
+.list-group-item {
+  margin-bottom: 20px;
+}
+
+.movie-country-genre{
+  margin-top: 10px;
+}
+
+.movie-year{
+  margin-top: 5px;
+}
+
+.list-group-item:hover {
+  background-color: black;
+  color:white;
+}
+
+/* .containerNav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav li {
+  padding: 10px;
+  margin: 0 65px 0 65px;
+  border:5px solid #004dff;
+  border-radius: 50px;
+  background-color: #004dff;
+  color: white;
+}
+
+.nav li:hover {
+  padding: 10px;
+  border:5px solid #004dff;
+  border-radius: 50px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+} */
